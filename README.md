@@ -1,3 +1,5 @@
+
+ ![]('')
  # 🎥 SoloWebinar
 
 **SoloWebinar** es una plataforma moderna y dinámica dedicada a la creación, gestión y difusión de **webinars gratuitos** centrados en temas como **emprendimiento, marketing digital, desarrollo personal y negocios**. Diseñado para educar y conectar, SoloWebinar democratiza el acceso al conocimiento de calidad mediante eventos en vivo semanales, sin relleno ni complicaciones.
