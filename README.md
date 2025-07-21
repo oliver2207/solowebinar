@@ -16,7 +16,6 @@ El objetivo principal de SoloWebinar es **brindar formación profesional y acces
 - 🎙️ Plataforma de transmisión integrada (YouTube Live, Zoom, etc.)
 - 📅 Sistema de registro automatizado y gestión de eventos
 - 📲 Notificaciones por correo y recordatorios automáticos
-- 📊 Panel de analítica para ponentes y administradores
 - 🌐 Interfaz moderna, adaptable y accesible desde cualquier dispositivo
 
 ---
@@ -24,21 +23,6 @@ El objetivo principal de SoloWebinar es **brindar formación profesional y acces
 ## 🧰 Tecnologías Utilizadas
 
 - **Frontend**: React.js + Tailwind CSS
-- **Backend**: Node.js + Express
-- **Base de Datos**: MongoDB / PostgreSQL
-- **Autenticación**: JWT + OAuth2 (Google, Facebook)
-- **Transmisión**: YouTube API, Zoom SDK
-- **Infraestructura**: Docker + Vercel / Render / Railway
-
----
-
-## 🧩 Módulos del Proyecto
-
-- 🎫 **Módulo de Registro** – para usuarios y ponentes
-- 🧑‍🏫 **Área del Ponente** – subir materiales, programar webinars
-- 🎥 **Sala de Webinar** – transmisión, interacción en vivo y recursos
-- 💬 **Chat en vivo y encuestas** – fomentar participación activa
-- 📧 **Emails Automatizados** – confirmaciones, recordatorios y seguimiento
 
 ---
 
@@ -66,8 +50,6 @@ El objetivo principal de SoloWebinar es **brindar formación profesional y acces
 
 ¿Tienes preguntas o propuestas?
 
-- 💌 Correo: contacto@solowebinar.com
-- 🌐 Sitio web: [www.solowebinar.com](https://www.solowebinar.com)
 - 📺 Canal: [YouTube: SoloWebinar](https://www.youtube.com/@SoloWebinar)
 
 ---
