@@ -1,0 +1,1 @@
+export const whatsapp = 'https://chat.whatsapp.com/EaXwqPNzOIE1AjNC9fK2Ne?mode=ac_t'
