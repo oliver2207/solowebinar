@@ -1,69 +1,58 @@
-# React + TypeScript + Vite
+ # 🎥 SoloWebinar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SoloWebinar** es una plataforma moderna y dinámica dedicada a la creación, gestión y difusión de **webinars gratuitos** centrados en temas como **emprendimiento, marketing digital, desarrollo personal y negocios**. Diseñado para educar y conectar, SoloWebinar democratiza el acceso al conocimiento de calidad mediante eventos en vivo semanales, sin relleno ni complicaciones.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Objetivo del Proyecto
 
-## Expanding the ESLint configuration
+El objetivo principal de SoloWebinar es **brindar formación profesional y accesible**, permitiendo que cualquier persona, sin importar su ubicación, pueda asistir a **webinars en vivo** de alto valor impartidos por expertos.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🧠 Características Principales
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+- ✅ **Webinars en vivo** semanales con enfoque práctico y directo
+- 🎙️ Plataforma de transmisión integrada (YouTube Live, Zoom, etc.)
+- 📅 Sistema de registro automatizado y gestión de eventos
+- 📲 Notificaciones por correo y recordatorios automáticos
+- 🌐 Interfaz moderna, adaptable y accesible desde cualquier dispositivo
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🧰 Tecnologías Utilizadas
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- **Frontend**: React.js + Tailwind CSS
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
+
+## 🌟 ¿Por qué SoloWebinar?
+
+- 100% gratuito, siempre
+- Enfoque **directo y práctico**, sin relleno
+- Comunidad en crecimiento
+- Diseñado para facilitar el **aprendizaje continuo**
+
+---
+
+## 🤝 Contribuciones
+
+¿Te gustaría colaborar con el proyecto? ¡Eres bienvenido/a!
+
+1. Haz un fork del repositorio
+2. Crea una rama: `feature/tu-funcionalidad`
+3. Haz commit de tus cambios
+4. Abre un Pull Request
+
+---
+
+## 📬 Contacto
+
+¿Tienes preguntas o propuestas?
+
+- 📺 Canal: [YouTube: SoloWebinar](https://www.youtube.com/@SoloWebinar)
+
+---
+
+> **SoloWebinar** – Aprende gratis, cada semana. En vivo y sin relleno.
+
