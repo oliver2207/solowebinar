@@ -1,7 +1,13 @@
- # 🎥 SoloWebinar
+# 🎥 SoloWebinar
 
-**SoloWebinar** es una plataforma moderna y dinámica dedicada a la creación, gestión y difusión de **webinars gratuitos** centrados en temas como **emprendimiento, marketing digital, desarrollo personal y negocios**. Diseñado para educar y conectar, SoloWebinar democratiza el acceso al conocimiento de calidad mediante eventos en vivo semanales, sin relleno ni complicaciones.
 
+
+##### **SoloWebinar** es una plataforma moderna y dinámica dedicada a la creación, gestión y difusión de **webinars gratuitos** centrados en temas como **emprendimiento, marketing digital, desarrollo personal y negocios**. Diseñado para educar y conectar, SoloWebinar democratiza el acceso al conocimiento de calidad mediante eventos en vivo semanales, sin relleno ni complicaciones.
+
+---
+
+ ![solo webinar](https://github.com/oliver2207/solowebinar/blob/693be5514e858c1d7aef851400e5d235b88d7220/src/assets/Poto/Captura%20web_21-7-2025_03715_localhost.jpeg)
+ 
 ---
 
 ## 🚀 Objetivo del Proyecto
