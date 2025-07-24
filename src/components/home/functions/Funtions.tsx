@@ -56,7 +56,7 @@ function Funtions() {
                 className="flex items-center mb-12 last:mb-0"
               >
                 <div className="flex-shrink-0 mr-8">
-                  <div className="w-16 h-16 bg-[#2D5A5A] text-white rounded-full flex items-center justify-center text-2xl font-bold">
+                  <div className="w-10 h-10 md:w-16 md:h-16 bg-[#2D5A5A] text-white rounded-full flex items-center justify-center text-2xl font-bold">
                     {step.step}
                   </div>
                 </div>

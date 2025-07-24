@@ -135,7 +135,7 @@ function HeroSection() {
                   className="bg-gradient-to-r from-[#4ECDC4] to-[#8E44AD] hover:from-[#4ECDC4]/80 hover:to-[#8E44AD]/80 text-white px-10 py-6 text-lg font-semibold rounded-full shadow-2xl hover:shadow-[#4ECDC4]/25 transition-all duration-300"
                   asChild
                 >
-                  <a href={whatsapp} target="_blank">
+                  <a href={whatsapp} >
                     🚀 Unirme al Grupo WhatsApp
                     <ArrowRight className="ml-2 h-5 w-5" />
                   </a>

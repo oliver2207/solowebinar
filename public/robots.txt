@@ -1,0 +1,20 @@
+# robots.txt para solowebinar: cursos y webinars gratuitos
+
+User-agent: *  # Aplica a todos los motores de búsqueda
+ 
+Allow: /
+
+# ❌ Bloquear rutas internas innecesarias
+Disallow: /admin/
+Disallow: /login/
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /private/
+Disallow: /errors/
+Disallow: /config/
+
+# ✅  ubicación del sitemap
+Sitemap: https://tudominio.com/sitemap.xml
+
+ 
+Crawl-delay: 10

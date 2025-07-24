@@ -1,4 +1,4 @@
-import { Instagram, Link, Linkedin, Youtube } from "lucide-react";
+import { Instagram, Linkedin, Youtube } from "lucide-react";
 import images from '../../assets/img/logo2-solowebinar.png'
  
     
@@ -37,26 +37,26 @@ import images from '../../assets/img/logo2-solowebinar.png'
               <h4 className="text-lg font-semibold mb-4">Síguenos</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://youtube.com/@solowebinars"
+                  href="https://youtube.com/@solowebinar?si=v0-sOe8qMVv8Exlc"
                   target="_blank"
                   className="text-gray-300 hover:text-[#4ECDC4] transition-colors"
                 >
                   <Youtube className="h-6 w-6" />
                 </a>
-                <a
-                  href="https://instagram.com/solowebinars"
-                  target="_blank"
+                <span
+                  // href="https://instagram.com/solowebinars"
+                  // target="_blank"
                   className="text-gray-300 hover:text-[#8E44AD] transition-colors"
                 >
                   <Instagram className="h-6 w-6" />
-                </a>
-                <Link
-                  href="https://linkedin.com/company/solowebinars"
-                  target="_blank"
+                </span>
+                <span
+                  // href="https://linkedin.com/company/solowebinars"
+                  // target="_blank"
                   className="text-gray-300 hover:text-[#4ECDC4] transition-colors"
                 >
                   <Linkedin className="h-6 w-6" />
-                </Link>
+                </span>
               </div>
             </div>
           </div>
